@@ -15,22 +15,10 @@ titanic-eda-project/
 
 ## requirements.txt
 
-```txt
 numpy
 pandas
 matplotlib
 seaborn
-```
-
----
-
-## Example README (English)
-
-```markdown
-# Titanic EDA Project
-
-This repository contains an **Exploratory Data Analysis (EDA)** project on the famous [Titanic dataset](https://www.kaggle.com/competitions/titanic/data).  
-The goal is to explore the data, handle missing values, detect outliers, and analyze survival patterns based on passenger demographics and socio-economic factors.
 
 ---
 
