@@ -93,6 +93,4 @@ This project demonstrates:
 * Outlier detection
 * Visual exploration of survival patterns
 * Insights into socio-economic and demographic factors affecting survival
-
-```
----
+______
