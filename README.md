@@ -1,6 +1,6 @@
 # Titanic EDA
 
-## Suggested Repository Structure
+## Structure
 
 ```
 titanic-eda-project/
